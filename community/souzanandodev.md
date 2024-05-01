@@ -9,4 +9,4 @@ Eu sou da área de Infraestrutura TI, em busca de conhecimento e certificação 
 
 ## 📕 Aprendizados
 
-Contruir projeto demonstra os conhecimentos adiquiridos, através de pesquisas e erros para buscar melhorias.
+Construir projeto demonstra os conhecimentos adiquiridos, através de pesquisas e erros para buscar melhorias.
